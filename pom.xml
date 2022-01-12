@@ -38,7 +38,7 @@
 				<workerType>Micro</workerType>
 				<environment>Sandbox</environment>
 				<muleVersion>4.4.0</muleVersion>
-				<applicationName>abc_app_divz2</applicationName>
+				<applicationName>abc-app-divz2</applicationName>
 				<objectStoreV2>true</objectStoreV2>
 				</cloudHubDeployment>
 					<sharedLibraries>
