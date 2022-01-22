@@ -33,7 +33,7 @@
 				<cloudHubDeployment>
 				<uri>https://anypoint.mulesoft.com</uri>
 				<username>divz2</username>
-				<password>Bab@shiv342</password>
+				<password>Al@kazam1</password>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<environment>Sandbox</environment>
